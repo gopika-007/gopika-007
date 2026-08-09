@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I’m Gopika 👋
 
-<!--
-**gopika-007/gopika-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+🌱 Just starting my journey into programming and technology
+💻 Currently learning the fundamentals of computer science
+🚀 Exploring different areas of software development
+📚 Learning, experimenting, and building my skills step by step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+* Programming fundamentals
+* Git & GitHub
+* Problem solving
+
+🎯 Goals
+
+* Build my first projects
+* Learn programming languages
+* Improve my problem-solving skills
+* Explore different areas of Computer Science
+
+🔗 Connect With Me
+
+* 💼 LinkedIn⁠￼
+* 📸 Instagram⁠￼
+  
